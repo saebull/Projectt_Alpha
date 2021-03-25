@@ -4,9 +4,14 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>Insert title here</title>
+<title>alpha home</title>
 </head>
 <body>
-
+	<header>
+	</header>
+	<article>
+	</article>
+	<footer>
+	</footer>
 </body>
 </html>
